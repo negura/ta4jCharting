@@ -3,7 +3,7 @@
 	<groupId>de.sjwimmer.ta4j-charting</groupId>
 	<artifactId>ta4j-charting-parent</artifactId>
 	<packaging>pom</packaging>
-	<version>0.2-SNAPSHOT</version>
+	<version>0.2-SNAPSHOT-anegura</version>
 	<name>ta4j-charting-parent</name>
 	<description>Simple charting application for the ta4j library</description>
 	<url>https://github.com/team172011/ta4jCharting</url>
@@ -119,7 +119,7 @@
 			<dependency>
 				<groupId>org.ta4j</groupId>
 				<artifactId>ta4j-core</artifactId>
-				<version>0.16-SNAPSHOT</version>
+				<version>0.19-SNAPSHOT-anegura</version>
 			</dependency>
 			<dependency>
 				<groupId>ch.qos.logback</groupId>
